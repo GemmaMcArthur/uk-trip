@@ -1,8 +1,8 @@
-# Day 5
+# Day 7
 
-**Start**: London, England
+**Start**: Dinas Powys, Wales
 
-**End**: Dinas Powys, Wales
+**End**: Glasgow, Scotland
 
 ### Important Information
 
