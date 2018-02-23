@@ -15,11 +15,11 @@
 * [Day 12](day-12.md)
 * [Day 13](day-13.md)
 * [Day 14](day-14.md)
-* Day 15
-* Day 16
-* Day 17
-* Day 18
-* Day 19
+* [Day 15](day-15.md)
+* [Day 16](day-16.md)
+* [Day 17](day-17.md)
+* [Day 18](day-18.md)
+* [Day 19](day-19.md)
 * Day 20
 * Day 21
 * Day 22
