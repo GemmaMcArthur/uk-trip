@@ -1,6 +1,8 @@
 # Day 6
 
-**Location**: Dinas Powys, Wales
+**Start**: Isle of Skye
+
+**End**: Trossachs
 
 ### Accommodation
 

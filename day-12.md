@@ -1,8 +1,6 @@
 # Day 12
 
-**Start**: Glasgow, Scotland
-
-**End**: Fort WIlliam, Scotlamd
+Location: Isle of Skye
 
 ### Important Information
 

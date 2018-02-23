@@ -1,8 +1,8 @@
 # Day 14
 
-**Start**: Glasgow, Scotland
+**Start**: Trossachs, Scotland
 
-**End**: Fort WIlliam, Scotlamd
+**End**: Edinburgh, Scotland
 
 ### Important Information
 
