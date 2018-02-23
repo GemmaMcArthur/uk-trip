@@ -1,6 +1,6 @@
 # Day 6
 
-**Location**: Dinas Powys, Wales
+**Location**: Fort William, Scotland
 
 ### Accommodation
 

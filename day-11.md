@@ -1,6 +1,8 @@
-# Day 6
+# Day 11
 
-**Location**: Dinas Powys, Wales
+**Start**: Fort William
+
+**End**: Isle of Skye
 
 ### Accommodation
 
