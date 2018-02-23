@@ -4,7 +4,14 @@
 
 **End**: London, United Kingdom
 
+### Accommodation
 
+* Insert
+
+### Things to do
+
+* 
+### 
 
 
 
