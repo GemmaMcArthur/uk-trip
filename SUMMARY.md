@@ -22,6 +22,6 @@
 * [Day 19](day-19.md)
 * [Day 20](day-20.md)
 * [Day 21](day-21.md)
-* Day 22
-* Day 23
+* [Day 22](day-22.md)
+* [Day 23](day-23.md)
 
