@@ -1,6 +1,8 @@
-# Day 19
+# Day 20
 
-**Location**: Peterborough, England
+**Start**: Peterborough, England
+
+**End**: London, England
 
 ### Important Information
 

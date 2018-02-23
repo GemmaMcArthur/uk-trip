@@ -20,7 +20,7 @@
 * [Day 17](day-17.md)
 * [Day 18](day-18.md)
 * [Day 19](day-19.md)
-* Day 20
+* [Day 20](day-20.md)
 * Day 21
 * Day 22
 * Day 23
