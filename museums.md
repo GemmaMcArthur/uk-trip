@@ -68,11 +68,43 @@ Wheeled cases and large items of luggage are not allowed on British Museum premi
 
 ## Museum of London
 
+**Opening Times**:10am - 6pm daily
 
+**Free admission**
+
+#### Museum of London
+
+Artifacts and interactives chronicle London's turbulent history from pre-Roman to modern times
+
+**Address**: Great Russell Street, London
+
+**Location**:
+
+[https://www.google.co.nz/maps/place/Museum+of+London/@51.5125435,-0.0953406,13z/data=!3m1!5s0x48761b55adfcd137:0x72ed99a20ada4bbb!4m8!1m2!2m1!1smuseum+of+london!3m4!1s0x48761b5508c1cbeb:0x407de2c1952a25e4!8m2!3d51.5176183!4d-0.0967782](https://www.google.co.nz/maps/place/Museum+of+London/@51.5125435,-0.0953406,13z/data=!3m1!5s0x48761b55adfcd137:0x72ed99a20ada4bbb!4m8!1m2!2m1!1smuseum+of+london!3m4!1s0x48761b5508c1cbeb:0x407de2c1952a25e4!8m2!3d51.5176183!4d-0.0967782)
+
+#### Museum of London Docklands
+
+London's history as a trading port.
+
+**Address**: No. 1 Warehouse, West India Quay, London
+
+**Location**:
+
+[https://www.google.co.uk/maps/place/Museum+of+London+Docklands/@51.5058102,-0.0207111,16z/data=!4m5!3m4!1s0x0000000000000000:0xfff66a923afecf31!8m2!3d51.5074791!4d-0.0238644](https://www.google.co.uk/maps/place/Museum+of+London+Docklands/@51.5058102,-0.0207111,16z/data=!4m5!3m4!1s0x0000000000000000:0xfff66a923afecf31!8m2!3d51.5074791!4d-0.0238644)
 
 ## Natural History Museum
 
-## 
+**Opening Times**:10am - 17:50pm daily
+
+**Free admission**
+
+**Address**: Cromwell Road, London
+
+**Location**:
+
+[https://www.google.co.nz/maps/place/Natural+History+Museum/@51.496715,-0.1785559,17z/data=!3m2!4b1!5s0x4876055d2a7da3ef:0xf1f051391800f80!4m5!3m4!1s0x48760542e6182f3f:0x7bb7e385c39764c4!8m2!3d51.496715!4d-0.1763672](https://www.google.co.nz/maps/place/Natural+History+Museum/@51.496715,-0.1785559,17z/data=!3m2!4b1!5s0x4876055d2a7da3ef:0xf1f051391800f80!4m5!3m4!1s0x48760542e6182f3f:0x7bb7e385c39764c4!8m2!3d51.496715!4d-0.1763672)
+
+Our free visitor app will help you find your way around all our galleries and give you behind-the-scenes insights into our collections
 
 ## 
 
