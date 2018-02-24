@@ -46,6 +46,28 @@ Regrettably we have no cloakroom and as our corridors are narrow we ask visitors
 
 ## British Museum
 
+Opening Times:10am - 17.30pm daily
+
+Free admission
+
+Suggested itineraries:
+
+1 hour visit
+
+If you are short of time, visit these objects for an insight into the variety of the Museum's collection.
+
+Ground floor: Rosetta Stone, Assyrian Lion HUnt reliefs, Parthenon sculptures.
+
+Upper Floor: Lewis Chessmen, Oxus Treasure, Royal Game of Ur, Mummy of Katebet, Samurai Armour
+
+Lower Floor: King of Ife
+
+3 hour visit
+
+Wheeled cases and large items of luggage are not allowed on British Museum premises. Storage for luggage is available at major rail stations
+
+
+
 ## Natural History Museum
 
 ## Museum of London
