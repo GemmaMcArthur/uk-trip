@@ -14,7 +14,7 @@ There is lots to see and we recommend about two and a half hours for your visit.
 
 **Location**:
 
-:![](/assets/Screen Shot 2018-02-24 at 5.16.44 PM.png)
+[https://www.google.co.nz/maps/place/Imperial+War+Museum/@51.4958308,-0.1108502,17z/data=!3m1!4b1!4m5!3m4!1s0x4876012c1f3ceed3:0xfed51d88d007b387!8m2!3d51.4958308!4d-0.1086615](https://www.google.co.nz/maps/place/Imperial+War+Museum/@51.4958308,-0.1108502,17z/data=!3m1!4b1!4m5!3m4!1s0x4876012c1f3ceed3:0xfed51d88d007b387!8m2!3d51.4958308!4d-0.1086615)
 
 We are unable to store large items of luggage or suitcases and these are not permitted in the galleries. The nearest left luggage facility is at Waterloo station. Lockers are available to use for smaller items such as small bags or ruck sacks.
 
@@ -38,7 +38,7 @@ Buy your tickets in advance online for **priority entry. **After you’ve booked
 
 **Location**:
 
-:![](/assets/Churchill War Rooms.png)
+[https://www.google.co.nz/maps/place/Churchill+War+Rooms/@51.5020865,-0.1309183,17z/data=!3m1!4b1!4m5!3m4!1s0x487604dad55789ab:0xcd8d10d8b2cf95e4!8m2!3d51.5020865!4d-0.1287296](https://www.google.co.nz/maps/place/Churchill+War+Rooms/@51.5020865,-0.1309183,17z/data=!3m1!4b1!4m5!3m4!1s0x487604dad55789ab:0xcd8d10d8b2cf95e4!8m2!3d51.5020865!4d-0.1287296)
 
 We recommend you give yourself at least 90 minutes to look around the Churchill War Rooms.**Please note that queue times are longer during peak periods such as weekends and school holidays.**
 
@@ -66,9 +66,13 @@ If you are short of time, visit these objects for an insight into the variety of
 
 Wheeled cases and large items of luggage are not allowed on British Museum premises. Storage for luggage is available at major rail stations
 
+## Museum of London
+
+
+
 ## Natural History Museum
 
-## Museum of London
+## 
 
 ## 
 
