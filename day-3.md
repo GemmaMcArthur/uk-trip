@@ -4,7 +4,7 @@
 
 ### Accommodation
 
-* Insert
+* \[Insert\]
 
 ### Things to do
 
