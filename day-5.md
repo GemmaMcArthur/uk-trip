@@ -4,8 +4,6 @@
 
 **End**: Dinas Powys, Wales
 
-### Important Information
-
 ### Accommodation
 
 ### Things to do

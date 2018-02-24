@@ -27,5 +27,5 @@
 * [London Museums](museums.md)
 * [London Tourist Activities](tourist-activities.md)
 * [London Walking Tours](walking-tours.md)
-* London Parks
+* [London Parks](london-parks.md)
 
