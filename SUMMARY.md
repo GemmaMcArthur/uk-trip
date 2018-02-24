@@ -24,5 +24,8 @@
 * [Day 21](day-21.md)
 * [Day 22](day-22.md)
 * [Day 23](day-23.md)
-* [Museums](museums.md)
+* [London Museums](museums.md)
+* [London Tourist Activities](tourist-activities.md)
+* [London Walking Tours](walking-tours.md)
+* London Parks
 
