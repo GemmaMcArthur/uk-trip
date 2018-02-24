@@ -46,27 +46,25 @@ Regrettably we have no cloakroom and as our corridors are narrow we ask visitors
 
 ## British Museum
 
-Opening Times:10am - 17.30pm daily
+**Opening Times**:10am - 17.30pm daily
 
-Free admission
+**Free admission**
 
-Suggested itineraries:
-
-1 hour visit
+##### Suggested itinerary - **1 hour visit**
 
 If you are short of time, visit these objects for an insight into the variety of the Museum's collection.
 
-Ground floor: Rosetta Stone, Assyrian Lion HUnt reliefs, Parthenon sculptures.
+* Ground Floor: Rosetta Stone, Assyrian Lion Hunt reliefs, Parthenon sculptures.
+* Upper Floor: Lewis Chessmen, Oxus Treasure, Royal Game of Ur, Mummy of Katebet, Samurai Armour
+* Lower Floor: King of Ife
 
-Upper Floor: Lewis Chessmen, Oxus Treasure, Royal Game of Ur, Mummy of Katebet, Samurai Armour
+**Address**: Great Russell Street, London
 
-Lower Floor: King of Ife
+**Location**:
 
-3 hour visit
+[https://www.google.co.nz/maps/place/The+British+Museum/@51.5194133,-0.1291453,17z/data=!3m1!4b1!4m5!3m4!1s0x48761b323093d307:0x2fb199016d5642a7!8m2!3d51.5194133!4d-0.1269566](https://www.google.co.nz/maps/place/The+British+Museum/@51.5194133,-0.1291453,17z/data=!3m1!4b1!4m5!3m4!1s0x48761b323093d307:0x2fb199016d5642a7!8m2!3d51.5194133!4d-0.1269566)
 
 Wheeled cases and large items of luggage are not allowed on British Museum premises. Storage for luggage is available at major rail stations
-
-
 
 ## Natural History Museum
 
