@@ -10,7 +10,7 @@
 
 ### Things to do
 
-* 
+* [Museums](/Museums)
 
 
 
