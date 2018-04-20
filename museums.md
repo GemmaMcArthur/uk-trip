@@ -14,7 +14,7 @@ There is lots to see and we recommend about two and a half hours for your visit.
 
 **Location**:
 
-[https://www.google.co.nz/maps/place/Imperial+War+Museum/@51.4958308,-0.1108502,17z/data=!3m1!4b1!4m5!3m4!1s0x4876012c1f3ceed3:0xfed51d88d007b387!8m2!3d51.4958308!4d-0.1086615](https://www.google.co.nz/maps/place/Imperial+War+Museum/@51.4958308,-0.1108502,17z/data=!3m1!4b1!4m5!3m4!1s0x4876012c1f3ceed3:0xfed51d88d007b387!8m2!3d51.4958308!4d-0.1086615)
+{{ "https://www.google.co.nz/maps/place/Imperial+War+Museum/@51.4958308,-0.1108502,17z/data=!3m1!4b1!4m5!3m4!1s0x4876012c1f3ceed3:0xfed51d88d007b387!8m2!3d51.4958308!4d-0.1086615" | placeMap }}
 
 We are unable to store large items of luggage or suitcases and these are not permitted in the galleries. The nearest left luggage facility is at Waterloo station. Lockers are available to use for smaller items such as small bags or ruck sacks.
 
