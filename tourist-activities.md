@@ -42,7 +42,7 @@ The price of admission includes entry to the Cathedral floor, crypt and the thre
 
 **Location**:
 
-\[[https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506\]\(https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506](https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506]%28https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506)\)
+\[\[[https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506\]\(https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506\]\(https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506\]\(https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506\)\](https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506]%28https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506]%28https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506]%28https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506%29\)\)
 
 Visitors spend an average of two hours inside St Pauls
 
@@ -59,7 +59,7 @@ Visitors and worshippers are not permitted to bring any bag, rucksack or suitcas
 * £22.70 advance ticket price
 * £26.80 Gate Price
 
-Tickets are only valid on the date selected and are non-transferable. 
+Tickets are only valid on the date selected and are non-transferable.
 
 Tickets include:
 
@@ -72,9 +72,42 @@ Tickets include:
 
 [https://www.google.co.nz/maps/place/Tower+of+London/@51.5081157,-0.0781433,17z/data=!3m1!4b1!4m5!3m4!1s0x48760349331f38dd:0xa8bf49dde1d56467!8m2!3d51.5081124!4d-0.0759493](https://www.google.co.nz/maps/place/Tower+of+London/@51.5081157,-0.0781433,17z/data=!3m1!4b1!4m5!3m4!1s0x48760349331f38dd:0xa8bf49dde1d56467!8m2!3d51.5081124!4d-0.0759493)
 
-## St Paul's Cathedral, London
+## Westminster Abbey, London
 
 **Opening Times**:8:30am - 4pm Monday to Saturday
 
 **Admission \(Adult\): **£18.
+
+**Location:**
+
+## London Zoo, London
+
+**Opening Times**:8:30am - 4pm Monday to Saturday
+
+**Admission \(Adult\): **£18.St Paul's Cathedral, London
+
+**Location:**
+
+## Buckingham Palace, London
+
+**Opening Times**:9:30am - 3:30pm Monday to Saturday
+
+**Admission \(Adult\): **
+
+* £20 \(advance\).
+* £20 \(gate price\)
+* £20 \(advance\).
+  * 
+
+**Location:**
+
+## Thames River Cruises, London
+
+**Opening Times**:8:30am - 4pm Monday to Saturday
+
+**Admission \(Adult\): **£18.
+
+**Location:**
+
+
 
