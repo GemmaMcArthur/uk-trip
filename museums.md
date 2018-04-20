@@ -106,7 +106,17 @@ London's history as a trading port.
 
 Our free visitor app will help you find your way around all our galleries and give you behind-the-scenes insights into our collections
 
-## 
+## National Portrait Gallery
+
+**Opening Times**:10am - 6pm daily \(9pm Thursday
+
+**Free admission**
+
+**Address**: St Martin's Place, London
+
+**Location**:
+
+[https://www.google.co.nz/maps/place/National+Portrait+Gallery/@51.5094269,-0.1303156,17z/data=!3m1!4b1!4m5!3m4!1s0x487604ce176ac979:0xb3ac7bd29af84262!8m2!3d51.5094236!4d-0.1281216](https://www.google.co.nz/maps/place/National+Portrait+Gallery/@51.5094269,-0.1303156,17z/data=!3m1!4b1!4m5!3m4!1s0x487604ce176ac979:0xb3ac7bd29af84262!8m2!3d51.5094236!4d-0.1281216)
 
 
 
