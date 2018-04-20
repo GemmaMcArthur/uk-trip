@@ -42,7 +42,7 @@ The price of admission includes entry to the Cathedral floor, crypt and the thre
 
 **Location**:
 
-
+[https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506](https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506)
 
 Visitors spend an average of two hours inside St Pauls
 
