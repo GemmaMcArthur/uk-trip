@@ -6,7 +6,7 @@
 
 **Admission \(Adult\): **£18.
 
-_**Buy in advance **_[_**online**_](https://www.stpauls.co.uk/tickets)_** to save up to £2 per ticket and gain fast-track entry.**_
+_**Buy in advance **_[_**online**_](https://www.stpauls.co.uk/tickets)_** to save up to £2 per ticket and gain fast-track entry.**_
 
 The price of admission includes entry to the Cathedral floor, crypt and the three galleries in the dome. Admission also includes multimedia guides and guided tours \(for individuals and family visitors, subject to guide availability on the day\).
 
@@ -32,7 +32,7 @@ The price of admission includes entry to the Cathedral floor, crypt and the thre
 
 **Guided Tours \(No extra cost above admission\)**
 
-* A 90-minute guided tour in English taking-in the Cathedral floor and crypt, as well as Geometric Staircase, Chapel of St Michael & St George and the Quire - areas not usually open to visitors. 
+* A 90-minute guided tour in English taking-in the Cathedral floor and crypt, as well as Geometric Staircase, Chapel of St Michael & St George and the Quire - areas not usually open to visitors.
 
 * Monday to Saturday - 10am; 11am; 1pm; 2pm
 
@@ -42,14 +42,11 @@ The price of admission includes entry to the Cathedral floor, crypt and the thre
 
 **Location**:
 
-[https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506](https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506)
+[https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506](https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506]%28https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506)
 
 Visitors spend an average of two hours inside St Pauls
 
 Special services may occassionally close all, or part of the Cathedral. Check the online calendar before visiting.
 
-Visitors and worshippers are not permitted to bring any bag, rucksack or suitcase into St Paul's Cathedral which would be larger than airline hand baggage \(56cm x 45cm x 25cm, including handles, wheels and pockets\). As there is no cloakroom facility please do not bring larger items with you.  
-
-
- 
+Visitors and worshippers are not permitted to bring any bag, rucksack or suitcase into St Paul's Cathedral which would be larger than airline hand baggage \(56cm x 45cm x 25cm, including handles, wheels and pockets\). As there is no cloakroom facility please do not bring larger items with you.
 
