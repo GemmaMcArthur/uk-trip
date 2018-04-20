@@ -42,11 +42,39 @@ The price of admission includes entry to the Cathedral floor, crypt and the thre
 
 **Location**:
 
-[https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506](https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506)
+\[[https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506\]\(https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506](https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506]%28https://www.google.co.nz/maps/place/St.+Paul's+Cathedral/@51.5138486,-0.1005446,17z/data=!3m1!4b1!4m5!3m4!1s0x487604aca207bc87:0x3a1d3501a9af5fde!8m2!3d51.5138453!4d-0.0983506)\)
 
 Visitors spend an average of two hours inside St Pauls
 
 Special services may occassionally close all, or part of the Cathedral. Check the online calendar before visiting.
 
 Visitors and worshippers are not permitted to bring any bag, rucksack or suitcase into St Paul's Cathedral which would be larger than airline hand baggage \(56cm x 45cm x 25cm, including handles, wheels and pockets\). As there is no cloakroom facility please do not bring larger items with you.
+
+## Tower of London, London
+
+**Opening Times**:Tuesday to Saturday 9am - 5:30pm
+
+**Admission \(Adult\): **
+
+* £22.70 advance ticket price
+* £26.80 Gate Price
+
+Tickets are only valid on the date selected and are non-transferable. 
+
+Tickets include:
+
+* Access to the Tower of London.
+* Admission to our exhibitions \(including the Crown Jewels\).
+* The iconic Yeoman Warder tour
+* Live historical re-enactments.
+
+**Location:**
+
+[https://www.google.co.nz/maps/place/Tower+of+London/@51.5081157,-0.0781433,17z/data=!3m1!4b1!4m5!3m4!1s0x48760349331f38dd:0xa8bf49dde1d56467!8m2!3d51.5081124!4d-0.0759493](https://www.google.co.nz/maps/place/Tower+of+London/@51.5081157,-0.0781433,17z/data=!3m1!4b1!4m5!3m4!1s0x48760349331f38dd:0xa8bf49dde1d56467!8m2!3d51.5081124!4d-0.0759493)
+
+## St Paul's Cathedral, London
+
+**Opening Times**:8:30am - 4pm Monday to Saturday
+
+**Admission \(Adult\): **£18.
 
