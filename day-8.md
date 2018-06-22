@@ -2,7 +2,7 @@
 
 **Start**: Glasgow, Scotland
 
-**End**: Oban, Scotlamd
+**End**: Glencoe, Scotlamd
 
 ### Important Information
 
@@ -54,4 +54,6 @@ St Conans Kirk Church - free entry
    2. [https://www.walkhighlands.co.uk/argyll/fas-na-cloiche.shtml](https://www.walkhighlands.co.uk/argyll/fas-na-cloiche.shtml)
 
 9. Glencoe - Rannoch Moor Drive
+
+
 
