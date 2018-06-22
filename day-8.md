@@ -34,24 +34,24 @@ St Conans Kirk Church - free entry
 
 1. Summer 9am – 6pm
 2. 
-1. Oban
+3. Oban
 
-1. 1. McCaigs Tower and Pulpit Hill
+4. 1. McCaigs Tower and Pulpit Hill
 
       1. [https://www.walkhighlands.co.uk/argyll/oban-explorer.shtml](https://www.walkhighlands.co.uk/argyll/oban-explorer.shtml)
 
    2. Ganavan Sands
-2. Atlantic Bridge - Seil \(Detour 20km/23 minutes each way from Oban\)
+5. Atlantic Bridge - Seil \(Detour 20km/23 minutes each way from Oban\)
 
-3. Falls of Lora, Connel Bridge
+6. Falls of Lora, Connel Bridge
 
-4. Castle Stalker
+7. Castle Stalker
 
-5. Fas na Cloiche and the Fairy Bridge, Glen Creran
+8. Fas na Cloiche and the Fairy Bridge, Glen Creran
 
    1. Distance4km / 2.5 miles\Time1 - 1.5 hours
 
    2. [https://www.walkhighlands.co.uk/argyll/fas-na-cloiche.shtml](https://www.walkhighlands.co.uk/argyll/fas-na-cloiche.shtml)
 
-
+9. Glencoe - Rannoch Moor Drive
 
