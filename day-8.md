@@ -4,30 +4,57 @@
 
 **End**: Glencoe, Scotlamd
 
-### Important Information
+### Route
+
+**Route 1 \(via A82\)**
+
+Glasgow to Caolasnacon
+
+* Driving time 2 hours 10 minutes
+
+* Distance: 153 km
+
+**Route 2 \(via A82 and A85\)**
+
+* Glasgow to Connel - 2 hours/148km
+
+* Connel to Oban - 10 minutes/8km one way
+
+* Connel to Caolasnacon/Kinlochleven - 50 minutes/53 km
 
 ### Accommodation
 
-### Things to do
+### Points** of Interest**
 
-**Direct Route**
+**Route 2**
 
-Glasgow to Connel - 2 hours/148km
+Glasgow to Connel
 
-Connel to Oban - 10 minutes/8km one way
-
-Connel to Caolasnacon/Kinlochleven - 50 minutes/53 km
-
-**Points of Interest**
-
-1. An Ceann Mor view point
+1. An Ceann Mor View point
 2. Detour to Rannoch Moor
-3. Kilchurn Castle - free entry  
-   1. [https://www.walkhighlands.co.uk/argyll/kilchurn-castle.shtml](https://www.walkhighlands.co.uk/argyll/kilchurn-castle.shtml)
+3. Kilchurn Castle
+   1. [https://www.walkhighlands.co.uk/argyll/kilchurn-castle.shtm](https://www.walkhighlands.co.uk/argyll/kilchurn-castle.shtml)lFree entry
+   2. 
+4. St Conans Kirk Church
+   1. Free entry
 
-   1. Parking off A85 near head of Loch Awe
+Oban
 
-   2. Distance 2km / 1.25 miles\Time 40 mins
+1. McCaigs Tower
+2. Pulpit Hill
+3. Ganavan Sands
+4. Atlantic Bridge, Seil
+
+Connel to Caolasnacon
+
+1. Falls of Lora
+2. Castle Stalker
+3. Fas na Cloiche and the Fairy Bridge, Glen Creran
+
+4. 
+5. Kilchurn Castle - free entry 1. 
+6. 
+
 
 St Conans Kirk Church - free entry  
 1. Saint Conan’s Kirk is situated in the village of Loch Awe, on the A85 between Dalmally and Oban
