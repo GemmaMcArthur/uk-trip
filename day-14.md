@@ -1,8 +1,8 @@
 # Day 14
 
-**Start**: Trossachs, Scotland
+**Location**: Edinburgh
 
-**End**: Edinburgh, Scotland
+
 
 ### Important Information
 

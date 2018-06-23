@@ -1,6 +1,8 @@
 # Day 12
 
-Location: Isle of Skye
+Start: Isle of Skye
+
+End: Loch Ness
 
 ### Important Information
 

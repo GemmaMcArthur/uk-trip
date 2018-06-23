@@ -1,8 +1,8 @@
 # Day 6
 
-**Start**: Isle of Skye
+**Start**: Loch Ness
 
-**End**: Trossachs
+**End**: Edinburgh
 
 ### Accommodation
 
