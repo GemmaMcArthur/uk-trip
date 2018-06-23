@@ -26,6 +26,9 @@ Fort WIlliam
   * Free admission
 * Old Inverlochy Castle
   * Free admission
+  * Distance: 4.5 km
+  * Time 1 - 1.5 hours
+  * [https://www.walkhighlands.co.uk/fortwilliam/inverlochy-castle.shtml](https://www.walkhighlands.co.uk/fortwilliam/inverlochy-castle.shtml)
 * Neptunes Staicase
 * Steall Waterfall
   * Distance 3.5km
