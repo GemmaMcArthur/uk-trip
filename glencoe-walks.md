@@ -35,15 +35,30 @@
 
 Ard Airigh and the Garbh Eilean hide, Sunart Oakwoods
 
+* Distance: 1.5km
+* Time: 1 hour
+* [https://www.walkhighlands.co.uk/fortwilliam/ardairigh.shtml](https://www.walkhighlands.co.uk/fortwilliam/ardairigh.shtml)
+* Wildlife Viewing hide
+
 Ben Hiant
 
-Bhein Resipole
+* Distance: 4.5km
+* Time: 2 - 3 hours
+* Ascent: 347m
+* [https://www.walkhighlands.co.uk/fortwilliam/ben-hiant.shtml](https://www.walkhighlands.co.uk/fortwilliam/ben-hiant.shtml)
 
 Castle Tioram and the Silver Circuit Walk
 
-Loch Shiel View points walk
+* Distance: 6km
+* Time: 2 - 2.5 hours
+* Ascent: 270m
+* [https://www.walkhighlands.co.uk/fortwilliam/castletioram.shtml](https://www.walkhighlands.co.uk/fortwilliam/castletioram.shtml)
 
 Singing Sands, Kentra
+
+* Distance: 9.5km
+* Time: 2.5 - 3.5 hours
+* [https://www.walkhighlands.co.uk/fortwilliam/singingsands.shtml](https://www.walkhighlands.co.uk/fortwilliam/singingsands.shtml)
 
 ### Isle of Skye
 
