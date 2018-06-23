@@ -16,3 +16,11 @@ Loch nan Uamh
 
 B8008 Alternative Coastal Route
 
+Camusdarach Beach
+
+* Distance:2km
+* Time: 1 hour
+* [https://www.walkhighlands.co.uk/fortwilliam/camusdarach-beach.shtml](https://www.walkhighlands.co.uk/fortwilliam/camusdarach-beach.shtml)
+
+
+
