@@ -4,8 +4,8 @@
 
 **Glencoe Lochan Trails**
 
-* Distance:2.5km
-* Time:1 - 1.5 hours
+* Distance: 2.5km
+* Time: 1 - 1.5 hours
 * [https://www.walkhighlands.co.uk/fortwilliam/glencoelochan.shtml](https://www.walkhighlands.co.uk/fortwilliam/glencoelochan.shtml)
 
 **Grey Mare's Tail**
@@ -16,11 +16,11 @@
 
 **Lost Valley \(Coire Gabhail\)**
 
-* Distance4km / 2.5 miles
+* Distance: 4km / 2.5 miles
 
-* Time2 - 3 hours
+* Time: 2 - 3 hours
 
-* Ascent335m
+* Ascent: 335m
 
 * [https://www.walkhighlands.co.uk/fortwilliam/lostvalley.shtml](https://www.walkhighlands.co.uk/fortwilliam/lostvalley.shtml)
 
@@ -62,17 +62,43 @@ Singing Sands, Kentra
 
 ### Isle of Skye
 
-Neist Point Lightshouse
+Neist Point Lighthouse
 
-Fairy Pools
+* Distance: 3km
+* Time: 1 - 2 hours
+* [https://www.walkhighlands.co.uk/skye/neistpoint.shtml](https://www.walkhighlands.co.uk/skye/neistpoint.shtml)
+
+Fairy Pools and Coire na Creiche
+
+* Distance:8km
+* Time: 2.5 - 3.5 hours
+* Ascent: 360m
+* [https://www.walkhighlands.co.uk/skye/fairypools.shtml](https://www.walkhighlands.co.uk/skye/fairypools.shtml)
 
 The Quairing
 
-Brothers Point
+* Distance: 6.5km
+* Time: 3 - 4 hours
+* Ascent 374m
+* [https://www.walkhighlands.co.uk/skye/quiraing.shtml](https://www.walkhighlands.co.uk/skye/quiraing.shtml)
 
-Old Man od Storr
+Brothers Point - Rubha nam Brathairean
+
+* Distance: 3,5km
+* Time: 1 - 2 hours
+* [https://www.walkhighlands.co.uk/skye/brotherspoint.shtml](https://www.walkhighlands.co.uk/skye/brotherspoint.shtml)
+
+Old Man of Storr
+
+* Distance: 4.5km
+* Time: 1.5 - 2.5 hours
+* [https://www.walkhighlands.co.uk/skye/old-man-of-storr.shtml](https://www.walkhighlands.co.uk/skye/old-man-of-storr.shtml)
 
 Fairy Glen
+
+* Distance: 2km
+* Time: 1 hour+
+* [https://www.walkhighlands.co.uk/skye/fairyglen.shtml](https://www.walkhighlands.co.uk/skye/fairyglen.shtml)
 
 ### 
 
