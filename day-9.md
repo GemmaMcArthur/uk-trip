@@ -21,13 +21,20 @@ The Road to the Isles
 Fort WIlliam
 
 * Nevis Range Gondola
+  * 21
 * West Highland Museum
+  * Free admission
 * Old Inverlochy Castle
+  * Free admission
 * Neptunes Staicase
 * Steall Waterfall
+  * Distance 3.5km
+  * Time: 1.5 - 2.5 hours
+  * [https://www.walkhighlands.co.uk/fortwilliam/steallfalls.shtml](https://www.walkhighlands.co.uk/fortwilliam/steallfalls.shtml)
 
 Glenfinnan Monument
 
+* Admission 3.50
 * Have to pay for parking
 
 Glenfinnan Viaduct
