@@ -4,9 +4,15 @@
 
 **Glencoe Lochan Trails**
 
-**Inchree Falls**
+* Distance:2.5km
+* Time:1 - 1.5 hours
+* [https://www.walkhighlands.co.uk/fortwilliam/glencoelochan.shtml](https://www.walkhighlands.co.uk/fortwilliam/glencoelochan.shtml)
 
 **Grey Mare's Tail**
+
+* Distance: 3.5km
+* Time: 1.5 - 2.5 hours
+* [https://www.walkhighlands.co.uk/fortwilliam/mamorelodge.shtml](https://www.walkhighlands.co.uk/fortwilliam/mamorelodge.shtml)
 
 **Lost Valley \(Coire Gabhail\)**
 
@@ -19,6 +25,11 @@
 * [https://www.walkhighlands.co.uk/fortwilliam/lostvalley.shtml](https://www.walkhighlands.co.uk/fortwilliam/lostvalley.shtml)
 
 **Pap of Glencoe**
+
+* Distance:7km
+* Time: 3.5 - 5 hours
+* Ascent:716m
+* [https://www.walkhighlands.co.uk/fortwilliam/papofglencoe.shtml](https://www.walkhighlands.co.uk/fortwilliam/papofglencoe.shtml)
 
 ### Ardnamurchan
 
@@ -38,7 +49,9 @@ Singing Sands, Kentra
 
 Neist Point Lightshouse
 
-Fairy PoolsThe Quairing
+Fairy Pools
+
+The Quairing
 
 Brothers Point
 

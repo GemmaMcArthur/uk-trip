@@ -22,6 +22,9 @@ Fort WIlliam
 
 * Nevis Range Gondola
   * 21
+  * [https://www.walkhighlands.co.uk/fortwilliam/nevis-range.shtml](https://www.walkhighlands.co.uk/fortwilliam/nevis-range.shtml)
+    * View point walks
+    * 4km/1 -- 2 hours
 * West Highland Museum
   * Free admission
 * Old Inverlochy Castle
@@ -30,7 +33,7 @@ Fort WIlliam
   * Time 1 - 1.5 hours
   * [https://www.walkhighlands.co.uk/fortwilliam/inverlochy-castle.shtml](https://www.walkhighlands.co.uk/fortwilliam/inverlochy-castle.shtml)
 * Neptunes Staicase
-* Steall Waterfall
+* Steall Falls and the Nevis Gorge
   * Distance 3.5km
   * Time: 1.5 - 2.5 hours
   * [https://www.walkhighlands.co.uk/fortwilliam/steallfalls.shtml](https://www.walkhighlands.co.uk/fortwilliam/steallfalls.shtml)
@@ -42,6 +45,9 @@ Glenfinnan Monument
 
 Glenfinnan Viaduct
 
+* Distance: 4km
+* Time 1 - 2 hours
+* [https://www.walkhighlands.co.uk/fortwilliam/glenfinnan.shtml](https://www.walkhighlands.co.uk/fortwilliam/glenfinnan.shtml)
 * Have to pay for parking
 
 Loch Eilt
