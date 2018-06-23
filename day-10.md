@@ -1,10 +1,10 @@
-# Day 6
+# Day 10
 
-**Location**: Fort William, Scotland
+**Location**: Ardnamurchan
 
-### Accommodation
+### 
 
-### Things to do
+### 
 
 
 

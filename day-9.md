@@ -12,7 +12,11 @@ via Fort William and Glenfinnan \(A82, A830 and A861\)
 
 The north side of Loch Leven \(B863\) is more scenic than the southern side
 
-### Points of Interest 
+The Road to the Isles
+
+* [https://www.zigzagonearth.com/road-to-the-isles-scotland/](https://www.zigzagonearth.com/road-to-the-isles-scotland/)
+
+### Points of Interest
 
 Fort WIlliam
 
@@ -31,6 +35,4 @@ Glenfinnan Viaduct
 * Have to pay for parking
 
 Loch Eilt
-
-
 
