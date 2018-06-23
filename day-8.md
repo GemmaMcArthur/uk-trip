@@ -14,6 +14,8 @@ Glasgow to Caolasnacon
 
 * Distance: 153 km
 
+* [https://www.zigzagonearth.com/a82-glen-coe-scotland/\#tab-con-4](https://www.zigzagonearth.com/a82-glen-coe-scotland/#tab-con-4)
+
 **Route 2 \(via A82 and A85\)**
 
 * Glasgow to Connel - 2 hours/148km
@@ -26,6 +28,35 @@ Glasgow to Caolasnacon
 
 ### Points** of Interest**
 
+**Route 1**
+
+An Ceann Mor Lookout
+
+Kilchurn Castle
+
+* [https://www.walkhighlands.co.uk/argyll/kilchurn-castle.shtml](https://www.walkhighlands.co.uk/argyll/kilchurn-castle.shtml)
+* Free entry
+
+Loch Tulla viewpoint
+
+Loch na h-Achlaise and Loch Ba
+
+Buachaille Etive Mor
+
+Glen Etive side trip
+
+* [https://www.zigzagonearth.com/loch-etive-glen-etive-scotland/](https://www.zigzagonearth.com/loch-etive-glen-etive-scotland/)
+* 30 minutes each way \(but allow an hour\) 
+* One way distance 18km
+
+Buachaille Etive Beag
+
+Meeting of the Three Waters Waterfall
+
+The 3 Sisters 
+
+Loch Achtriochtan
+
 **Route 2**
 
 Glasgow to Connel
@@ -37,10 +68,12 @@ Glasgow to Connel
    2. 
 4. St Conans Kirk Church
    1. Free entry
+   2. Situated in the village of Loch Awe, on the A85 between Dalmally and Oban
 
 Oban
 
 1. McCaigs Tower
+   1. [https://www.walkhighlands.co.uk/argyll/oban-explorer.shtml](#)
 2. Pulpit Hill
 3. Ganavan Sands
 4. Atlantic Bridge, Seil
@@ -51,36 +84,11 @@ Connel to Caolasnacon
 2. Castle Stalker
 3. Fas na Cloiche and the Fairy Bridge, Glen Creran
 
-4. 
-5. Kilchurn Castle - free entry 1. 
-6. 
+   1. https://www.walkhighlands.co.uk/argyll/fas-na-cloiche.shtml
+
+   2. Distance4km / 2.5 miles\Time1 - 1.5 hours
 
 
-St Conans Kirk Church - free entry  
-1. Saint Conan’s Kirk is situated in the village of Loch Awe, on the A85 between Dalmally and Oban
-
-1. Summer 9am – 6pm
-2. 
-3. Oban
-
-4. 1. McCaigs Tower and Pulpit Hill
-
-      1. [https://www.walkhighlands.co.uk/argyll/oban-explorer.shtml](https://www.walkhighlands.co.uk/argyll/oban-explorer.shtml)
-
-   2. Ganavan Sands
-5. Atlantic Bridge - Seil \(Detour 20km/23 minutes each way from Oban\)
-
-6. Falls of Lora, Connel Bridge
-
-7. Castle Stalker
-
-8. Fas na Cloiche and the Fairy Bridge, Glen Creran
-
-   1. Distance4km / 2.5 miles\Time1 - 1.5 hours
-
-   2. [https://www.walkhighlands.co.uk/argyll/fas-na-cloiche.shtml](https://www.walkhighlands.co.uk/argyll/fas-na-cloiche.shtml)
-
-9. Glencoe - Rannoch Moor Drive
 
 
 
