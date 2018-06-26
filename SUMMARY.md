@@ -27,7 +27,6 @@
 * [London Museums](museums.md)
 * [London Tourist Activities](tourist-activities.md)
 * [London Walking Tours](walking-tours.md)
-* [London Parks](london-parks.md)
 * [Walks in Scotland](glencoe-walks.md)
 * Walks in Yorkshire
 
