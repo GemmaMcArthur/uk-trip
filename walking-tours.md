@@ -1,3 +1,5 @@
+# Self Guided Walking Tours
+
 ### Royal London Walk
 
 **Time**: 1 - 3 hours
