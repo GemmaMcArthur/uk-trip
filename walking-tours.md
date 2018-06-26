@@ -4,6 +4,10 @@
 
 **Start Point**: St Jame's Park Underground \(District and Circle Lines\)
 
+**Museums nearby:**
+
+* Natural History Museum
+
 **Points of Interest**
 
 1. St James Park
@@ -26,7 +30,7 @@
 
 **Route**:
 
-*  [https://www.google.com/maps/d/u/0/viewer?ll=51.50480299999999%2C-0.17151100000000952&spn=0.02006%2C0.066047&msa=0&mid=1\_\_9NJtCeGK\_tdchGXPL5yX\_i3KA&z=14](https://www.google.com/maps/d/u/0/viewer?ll=51.50480299999999%2C-0.17151100000000952&spn=0.02006%2C0.066047&msa=0&mid=1__9NJtCeGK_tdchGXPL5yX_i3KA&z=14)
+* [https://www.google.com/maps/d/u/0/viewer?ll=51.50480299999999%2C-0.17151100000000952&spn=0.02006%2C0.066047&msa=0∣=1\_\_9NJtCeGK\_tdchGXPL5yX\_i3KA&z=14](https://www.google.com/maps/d/u/0/viewer?ll=51.50480299999999%2C-0.17151100000000952&spn=0.02006%2C0.066047&msa=0&mid=1__9NJtCeGK_tdchGXPL5yX_i3KA&z=14)
 
 ### Westminster Walk
 
@@ -54,7 +58,7 @@
 
 **Route**:
 
-* [https://www.google.com/maps/d/u/0/viewer?msa=0&mid=1OavV8Ibe95noxKbuLL8mTTNd09k&ll=51.503558278492726%2C-0.13409999999998945&z=14](https://www.google.com/maps/d/u/0/viewer?msa=0&mid=1OavV8Ibe95noxKbuLL8mTTNd09k&ll=51.503558278492726%2C-0.13409999999998945&z=14)
+* [https://www.google.com/maps/d/u/0/viewer?msa=0∣=1OavV8Ibe95noxKbuLL8mTTNd09k≪=51.503558278492726%2C-0.13409999999998945&z=14](https://www.google.com/maps/d/u/0/viewer?msa=0&mid=1OavV8Ibe95noxKbuLL8mTTNd09k&ll=51.503558278492726%2C-0.13409999999998945&z=14)
 
 ### The Queens Walk
 
@@ -63,6 +67,10 @@ Queen's Walk takes you over Westminster Bridge, along the south bank of the Rive
 **Time**: 45 minutes - 2 hours
 
 **Start Point: **Westminster Underground \(District and Circle Lines\)
+
+**Museums Nearby:**
+
+* Imperial War Museum
 
 **Points of Interest:**
 
@@ -82,7 +90,7 @@ Queen's Walk takes you over Westminster Bridge, along the south bank of the Rive
 
 **Route:**
 
-* [https://www.google.com/maps/d/u/0/viewer?ll=51.50331306898832%2C-0.1233710000000201&spn=0.005015%2C0.016512&msa=0&mid=1u05oMcSPKFrYNJOQW-HqdjnUF\_c&z=14](https://www.google.com/maps/d/u/0/viewer?ll=51.50331306898832%2C-0.1233710000000201&spn=0.005015%2C0.016512&msa=0&mid=1u05oMcSPKFrYNJOQW-HqdjnUF_c&z=14)
+* [https://www.google.com/maps/d/u/0/viewer?ll=51.50331306898832%2C-0.1233710000000201&spn=0.005015%2C0.016512&msa=0∣=1u05oMcSPKFrYNJOQW-HqdjnUF\_c&z=14](https://www.google.com/maps/d/u/0/viewer?ll=51.50331306898832%2C-0.1233710000000201&spn=0.005015%2C0.016512&msa=0&mid=1u05oMcSPKFrYNJOQW-HqdjnUF_c&z=14)
 
 ### City of London Walk
 
@@ -91,6 +99,11 @@ The City of London is over 2000 years old with Roman and medieval remains side b
 **Time**: 45 minutes - 2 hours
 
 **Start Point: **St Paul's Underground \(Central Line\)
+
+**Museums Nearby:**
+
+* Museum of London
+* British Museum
 
 **Points of Interest:**
 
@@ -110,7 +123,7 @@ The City of London is over 2000 years old with Roman and medieval remains side b
 
 **Route:**
 
-* [https://www.google.com/maps/d/u/0/viewer?ll=51.512936068984615%2C-0.09202099999993152&spn=0.005014%2C0.016512&msa=0&mid=1f1iEcYQ2JstnhADQjwq6XGr9IPE&z=14](https://www.google.com/maps/d/u/0/viewer?ll=51.512936068984615%2C-0.09202099999993152&spn=0.005014%2C0.016512&msa=0&mid=1f1iEcYQ2JstnhADQjwq6XGr9IPE&z=14)
+* [https://www.google.com/maps/d/u/0/viewer?ll=51.512936068984615%2C-0.09202099999993152&spn=0.005014%2C0.016512&msa=0∣=1f1iEcYQ2JstnhADQjwq6XGr9IPE&z=14](https://www.google.com/maps/d/u/0/viewer?ll=51.512936068984615%2C-0.09202099999993152&spn=0.005014%2C0.016512&msa=0&mid=1f1iEcYQ2JstnhADQjwq6XGr9IPE&z=14)
 
 ### Pool of London London Walk
 
@@ -119,6 +132,11 @@ The Pool of London is the stretch of the River Thames from London Bridge to just
 **Time**: 45 minutes - 2 hours
 
 **Start Point: **Monument Underground \(Northern, District and Circle Lines\)
+
+**Museums Nearby:**
+
+* Museum of London
+* British Museum
 
 **Points of Interest:**
 
@@ -137,7 +155,7 @@ The Pool of London is the stretch of the River Thames from London Bridge to just
 
 **Route:**
 
-* [https://www.google.com/maps/d/u/0/viewer?ll=51.50705601743561%2C-0.07408299999997325&spn=0.002521%2C0.008256&msa=0&mid=1OPaVKYRo0QvamrAff6lhLgRlhw0&z=15](https://www.google.com/maps/d/u/0/viewer?ll=51.50705601743561%2C-0.07408299999997325&spn=0.002521%2C0.008256&msa=0&mid=1OPaVKYRo0QvamrAff6lhLgRlhw0&z=15)
+* [https://www.google.com/maps/d/u/0/viewer?ll=51.50705601743561%2C-0.07408299999997325&spn=0.002521%2C0.008256&msa=0∣=1OPaVKYRo0QvamrAff6lhLgRlhw0&z=15](https://www.google.com/maps/d/u/0/viewer?ll=51.50705601743561%2C-0.07408299999997325&spn=0.002521%2C0.008256&msa=0&mid=1OPaVKYRo0QvamrAff6lhLgRlhw0&z=15)
 
 
 
