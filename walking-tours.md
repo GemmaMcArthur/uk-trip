@@ -159,5 +159,13 @@ The Pool of London is the stretch of the River Thames from London Bridge to just
 
 * [https://www.google.com/maps/d/u/0/viewer?ll=51.50705601743561%2C-0.07408299999997325&spn=0.002521%2C0.008256&msa=0∣=1OPaVKYRo0QvamrAff6lhLgRlhw0&z=15](https://www.google.com/maps/d/u/0/viewer?ll=51.50705601743561%2C-0.07408299999997325&spn=0.002521%2C0.008256&msa=0&mid=1OPaVKYRo0QvamrAff6lhLgRlhw0&z=15)
 
+### Shopping
+
+1. Daunt Books - Paddington
+2. Waterstone's Piccdilly
+3. Selfridges
+4. Harrods
+5. Marks and Spencers
+
 
 

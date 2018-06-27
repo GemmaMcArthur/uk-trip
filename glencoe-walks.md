@@ -84,7 +84,7 @@ The Quairing
 
 Brothers Point - Rubha nam Brathairean
 
-* Distance: 3,5km
+* Distance: 3.5km
 * Time: 1 - 2 hours
 * [https://www.walkhighlands.co.uk/skye/brotherspoint.shtml](https://www.walkhighlands.co.uk/skye/brotherspoint.shtml)
 
