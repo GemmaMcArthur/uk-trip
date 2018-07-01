@@ -10,5 +10,18 @@
 
 ### Things to do
 
+#### York
+
+* The Shambles
+
+* York Minster
+
+York City Walls walk
+
+National Railway Museum
+
+* Opening Hours: 10am - 6pm
+* Free admission
+
 
 
