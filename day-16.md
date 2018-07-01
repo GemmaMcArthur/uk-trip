@@ -10,5 +10,20 @@
 
 ### Things to do
 
+**Whitby**
+
+* Whitby Abbey
+* 199 steps
+* Lighthouse
+* Swing bridge
+* Whalebone Arch
+* Saltwick Bay
+* Captain Cook Memorial
+* Sandgate - street
+
+**Robin Hoods Bay**
+
+* Park at the top and walk down into the village
+
 
 
