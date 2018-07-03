@@ -8,7 +8,21 @@ End: Loch Ness
 
 ### Accommodation
 
-### Things to do
+### Trotternish Loop
+
+* Portree
+* Old Man of Storr
+* Lealt Falls
+* Brothers Point
+* Kilt Rock and Mealt Falls Viewpoint
+* The Quairing
+* Fairy Glen
+
+* Eilean Donnan Castle
+
+
+
+
 
 
 
