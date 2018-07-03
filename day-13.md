@@ -8,11 +8,23 @@
 
 ### Things to do
 
-Urquart Castle
+**Urquart Castle**
 
-Fort George
+**Highlanders Museum**
 
-Culloden
+* Opeinig Hours: 9:30am - 4:45pm
+* Free admission
 
-Snow Roads
+**Fort George**
+
+* Opening Hours: 9:30 - 5:30pm
+* Price: 9 per person
+
+**Culloden**
+
+* Opening Hours: 9 - 7pm
+
+* Price: 11 per person
+
+**Snow Roads**
 
