@@ -10,5 +10,13 @@
 
 ### Things to do
 
+Berwick upon Tweed
 
+Seahouses
+
+Holy Island
+
+Dunstanburgh Castle
+
+Hadrians wall
 
