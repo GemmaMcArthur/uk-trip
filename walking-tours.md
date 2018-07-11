@@ -30,8 +30,6 @@
 
 **Finish Point**: Lancaster Gate Underground Station \(Central Line\)
 
-
-
 ### Westminster Walk
 
 **Time**: 45 minutes - 2 hours
@@ -55,8 +53,6 @@
 12. Westminster Abbey
 
 **Finish Point:**Westminster Underground \(District and Circle Lines\)
-
-
 
 ### The Queens Walk
 
@@ -87,8 +83,6 @@ Queen's Walk takes you over Westminster Bridge, along the south bank of the Rive
 
 **Finish Point: **St Paul's Underground \(Central Line\)
 
-
-
 ### City of London Walk
 
 The City of London is over 2000 years old with Roman and medieval remains side by side with 21st century award winning architecture. Starting at St Paul's Cathedral and finishing at Monument underground station the City of London walking tour takes you inside the boundaries of the "Square Mile", which have remained little changed since medieval times.
@@ -116,8 +110,6 @@ The City of London is over 2000 years old with Roman and medieval remains side b
 11. Monument, Great Fire of London
 
 **Finish Point: **Monument Underground \(Northern, District and Circle Lines\)
-
-
 
 ### Pool of London London Walk
 
@@ -147,15 +139,12 @@ The Pool of London is the stretch of the River Thames from London Bridge to just
 
 **Finish Point: **Monument Underground \(Northern, District and Circle Lines\)
 
-
-
 ### Shopping
 
-1. Daunt Books - Paddington
-2. Waterstone's Piccdilly
-3. Selfridges
-4. Harrods
-5. Marks and Spencers
+1. Oxford Street
+2. Regent Street
+3. 
+
 
 
 
