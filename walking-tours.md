@@ -143,8 +143,9 @@ The Pool of London is the stretch of the River Thames from London Bridge to just
 
 1. Oxford Street
 2. Regent Street
-3. 
+3. Piccadilly Circus
 
+4. Covent Garden
 
 
 
