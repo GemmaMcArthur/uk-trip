@@ -12,7 +12,7 @@
 
 **Highlanders Museum**
 
-* Opeinig Hours: 9:30am - 4:45pm
+* Opening Hours: 9:30am - 4:45pm
 * Free admission
 
 **Fort George**
@@ -26,5 +26,9 @@
 
 * Price: 11 per person
 
-**Snow Roads**
+**Inverness to Edinburgh**
+
+Route 1: Snow Roads via Ballatar and Braemar
+
+Route 2: via Aviemore and Pitlochry
 
